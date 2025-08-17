@@ -4,7 +4,7 @@ class SumAverageProduct {
         int n1 = 2;
         int n2 = 4;
         int n3 = 6;
-        int n4 = 8;
+        int n4 = 10;
 
         // Calculations
         int sum = n1 + n2 + n3 + n4;
