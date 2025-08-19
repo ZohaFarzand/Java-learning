@@ -1,8 +1,5 @@
 package day1;
 
-import org.w3c.dom.ls.LSOutput;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class task3 {
@@ -17,11 +14,7 @@ public class task3 {
         System.out.println("Enter time:");
         Double Time=sc.nextDouble();
 
-        System.out.println( (Principal*Rate*Time)/100.0);
-
-
-
-
+        System.out.println((Principal * Rate * Time) / 100.0);
 
     }
 

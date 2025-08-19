@@ -1,4 +1,6 @@
-class SumAverageProduct {
+package day1;
+
+public class hometask05 {
     public static void main(String[] args) {
         // Fixed numbers
         int n1 = 2;

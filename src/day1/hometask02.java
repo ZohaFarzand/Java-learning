@@ -1,3 +1,5 @@
+package day1;
+
 public class hometask02 {
         public static void main(String[] args) {
             int a = 5;   // first number

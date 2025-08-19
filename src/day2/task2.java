@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class task2 {
     public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("enter a number(1-7)");
-        byte num=sc.nextByte();
-        switch(num) {
+        byte num = sc.nextByte();
+        switch (num) {
             case 1:
                 System.out.println("Monday");
                 break;
@@ -37,20 +37,7 @@ public class task2 {
 
             default:
                 System.out.println("Invalid input");
-
-
-
         }
-
-
-
-
-        }
-
-
-
-
-
-
     }
+}
 

@@ -1,18 +1,15 @@
+package day1;
+
 import java.util.Scanner;
 
-public class hometask6 {
+public class hometask06 {
     public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("enter the age in years:");
-        byte ageY=sc.nextByte();
+        byte ageY = sc.nextByte();
         System.out.println("enter the age in months:");
-        System.out.println( ageY*12);//months=years*12
+        System.out.println(ageY * 12);//months=years*12
         System.out.println("enter the age in days:");
-        System.out.println( ageY*12*30); //days=years*365
-
-
-
-
-
+        System.out.println(ageY * 12 * 30); //days=years*365
     }
 }
