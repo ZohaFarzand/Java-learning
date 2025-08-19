@@ -12,14 +12,5 @@ public class task3 {
             factorial *= i;
         }
         System.out.println("The factorial of the "+num+" is:  "+factorial);
-
-
-
-
-
-
-
-
-
     }
 }
