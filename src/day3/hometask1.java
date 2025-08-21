@@ -19,7 +19,7 @@ public class hometask1 {
             System.out.println(num);
         }
 
-        double average = sum / 5.0;
+        double average = sum / numbers.length;
         System.out.println("Sum = " + sum);
         System.out.println("Average = " + average);
 
