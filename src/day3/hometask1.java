@@ -11,7 +11,7 @@ public class hometask1 {
         System.out.println("Enter 5 integers:");
         for (int i = 0; i < numbers.length; i++) {
             System.out.print("Number " + (i + 1) + ": ");
-            numbers[i] = scanner.nextInt();
+            numbers[i] = scanner.nextInt();// storing input numbers in array
             sum += numbers[i];
         }
         System.out.println("You entered:");

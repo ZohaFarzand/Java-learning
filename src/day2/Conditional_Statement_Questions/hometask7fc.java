@@ -2,7 +2,7 @@ package Conditional_Statement_Questions;
 
 import java.util.Scanner;
 
-public class hometask7 {
+public class hometask7fc {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -16,7 +16,7 @@ public class hometask7 {
         } else if (Character.isDigit(ch)) {
             System.out.println("Digit");
         } else {
-            System.out.println("Special symbo");
+            System.out.println("Special symbol");
         }
     }
 }
